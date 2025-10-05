@@ -62,21 +62,6 @@ Median regression line
 Random posterior samples for visualizing uncertainty
 
 
-🔹 Usage
-1️⃣ Clone the repository
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-
-2️⃣ Install dependencies
-pip install numpy pandas matplotlib pymc arviz scipy
-
-3️⃣ Run the notebook
-
-Open for_github.ipynb in Jupyter or VS Code and execute all cells:
-
-jupyter notebook for_github.ipynb
-
-4️⃣ Input files
 
 Make sure your CSV files are in the same directory:
 
