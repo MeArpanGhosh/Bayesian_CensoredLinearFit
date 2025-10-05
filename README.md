@@ -70,9 +70,13 @@ detections.csv	Flux data for detected sources
 upper_limits.csv	Flux data for upper-limit (non-detected) sources
 🔹 Repository Structure
 📦 your-repo-name
+
  ┣ 📜 for_github.ipynb        ← Main Bayesian regression notebook
+ 
  ┣ 📜 detections.csv          ← Detection dataset
+ 
  ┣ 📜 upper_limits.csv        ← Upper limit dataset
+ 
  ┣ 📜 README.md               ← Project documentation
  
 🔹 Dependencies
